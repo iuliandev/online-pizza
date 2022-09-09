@@ -1,6 +1,6 @@
 # 🍕 Online Pizza 
 
-[online-pizza](public/img/online-pizza.png)
+![online-pizza](public/img/online-pizza.png)
 -------------------------------------------
 
 ## ⚒️ Technologies
